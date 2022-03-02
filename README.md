@@ -24,7 +24,7 @@ This board is designed with optional aspects you can choose to include or not:
 
 - Copper pads for data and output are duplicated so you can attach more connectors or even solder wires. The input power is also brought out to duplicate pads for piggybacking to other circuits, e.g. an auxiliary board.
 
-- Although the connectors are rendered as vertical pin headers, you can use othe r kinds of connectors like pin sockets, or even solder wires to the pads.
+- Although the connectors are rendered as vertical pin headers, you can use other kinds of connectors like pin sockets, or even solder wires to the pads.
 
 ## Authors
 
