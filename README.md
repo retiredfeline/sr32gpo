@@ -1,6 +1,6 @@
 # Shift register 32 general purpose output board
 
-These are the Kicad design files for the Shift register 32 bit general purpose output board described in my [Hackaday project page](https://hackaday.io/project/184239-sr32gpo).
+These are the Kicad design files for the Shift register 32 bit general purpose output board described in my [Hackaday project page](https://hackaday.io/project/184239-3-line-to-32-line-output-expander).
 
 ## Versioning
 
